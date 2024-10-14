@@ -44,6 +44,8 @@ ld -m elf_i386 -s -o meu_programa arquivo.o
 
 #### Para Windows:
 Use o `gcc` para vincular:
+[GCC](https://github.com/0joseDark/NASM-gcc-to-compile/blob/main/gcc.md)
+
 ```bash
 gcc -o executavel.exe arquivo.o
 ```
